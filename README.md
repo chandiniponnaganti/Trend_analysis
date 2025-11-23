@@ -1,4 +1,4 @@
-ouTube Trending Video Analysis
+YouTube Trending Video Analysis
 Interactive Dashboard using Streamlit | Data Cleaning | Sentiment Analysis
 
 This project analyzes YouTube Trending Videos using end-to-end data preprocessing, exploratory analysis, sentiment scoring, and an interactive Streamlit Dashboard for visualization.
